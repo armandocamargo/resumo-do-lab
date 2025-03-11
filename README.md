@@ -46,4 +46,14 @@ Para criar uma rede virtual (VNet) no Azure, siga os passos abaixo:
 
 Os logs no Azure são registros detalhados das operações e eventos que ocorrem em seus recursos. Eles são essenciais para monitorar, diagnosticar problemas e garantir a segurança. Utilizando ferramentas como o Azure Monitor, você pode acessar e analisar esses logs para obter insights valiosos sobre o desempenho e a integridade dos seus serviços.
 
+## Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+
+Para configurar recursos e dimensionamento em máquinas virtuais no Azure, siga os passos abaixo:
+
+1. **Logar no portal**: Acesse o [Portal do Azure](https://portal.azure.com) e faça login com suas credenciais.
+2. **Selecionar a máquina virtual**: Navegue até "Máquinas Virtuais" e selecione a máquina desejada.
+3. **Configurar recursos**: No menu lateral, clique em "Tamanho" para ajustar o número de CPUs, memória e outras configurações de hardware.
+4. **Configurar dimensionamento automático**: Utilize "Dimensionamento Automático" para ajustar a capacidade automaticamente com base na demanda do aplicativo, garantindo eficiência e economia de recursos.
+5. **Salvar alterações**: Revise e salve as configurações. A máquina virtual será atualizada com os novos recursos e dimensionamento.
+
 ---
