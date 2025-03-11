@@ -33,4 +33,17 @@ Para configurar uma instância de banco de dados no Azure, siga os passos abaixo
 3. **Configurar a instância**: Preencha os detalhes, como nome do banco de dados, servidor, tipo de computação e armazenamento.
 4. **Finalizar configuração**: Revise as informações e clique em "Criar". Aguarde enquanto o Azure provisiona sua instância de banco de dados.
 
+## Construindo Arquiteturas no Azure
+
+Para criar uma rede virtual (VNet) no Azure, siga os passos abaixo:
+
+1. **Logar no portal**: Acesse o [Portal do Azure](https://portal.azure.com) e faça login com suas credenciais.
+2. **Adicionar VNet**: Navegue até "Redes Virtuais" e clique em "Adicionar".
+3. **Configurar a VNet**: Defina o nome, a região e o intervalo de endereços IP para a VNet.
+4. **Sub-redes**: Crie sub-redes dentro da VNet para segmentar os recursos de forma organizada.
+
+### Logs
+
+Os logs no Azure são registros detalhados das operações e eventos que ocorrem em seus recursos. Eles são essenciais para monitorar, diagnosticar problemas e garantir a segurança. Utilizando ferramentas como o Azure Monitor, você pode acessar e analisar esses logs para obter insights valiosos sobre o desempenho e a integridade dos seus serviços.
+
 ---
