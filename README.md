@@ -24,4 +24,13 @@ Para a criação de máquinas virtuais, siga os passos abaixo:
 3. **Configurar a máquina virtual**: Preencha os detalhes necessários, como nome, região, tamanho e imagem do sistema operacional.
 4. **Finalizar criação**: Valide as informações e clique em "Criar". Em alguns instantes, sua máquina virtual estará pronta para uso.
 
+## Configurando uma Instância de Banco de Dados no Azure
+
+Para configurar uma instância de banco de dados no Azure, siga os passos abaixo:
+
+1. **Logar no portal**: Acesse o [Portal do Azure](https://portal.azure.com) e faça login com suas credenciais.
+2. **Adicionar banco de dados**: Navegue até "Bancos de Dados SQL" e clique em "Adicionar".
+3. **Configurar a instância**: Preencha os detalhes, como nome do banco de dados, servidor, tipo de computação e armazenamento.
+4. **Finalizar configuração**: Revise as informações e clique em "Criar". Aguarde enquanto o Azure provisiona sua instância de banco de dados.
+
 ---
